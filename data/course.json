@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "German"
+    ],
+    [
+      "Society",
+      "European and Russian Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3a701bae-2b01-7ab7-74db-e558d2b75f83"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "German I",
+  "course_description": "This course gives an introduction to German language and culture. The focus is on acquisition of vocabulary and grammatical concepts through active communication. Audio, video, and printed materials provide direct exposure to authentic German language and culture. A self-paced language lab program is fully coordinated with the textbook/workbook. The first semester covers the development of effective basic communication skills.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.451,21G.471",
+  "primary_course_number": "21G.401",
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
